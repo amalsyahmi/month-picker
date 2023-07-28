@@ -27,3 +27,6 @@
 
 ## v0.3.0+1
 - **BREAKING CHANGES**: Upgraded to Dart 3 and Flutter 3.10 SDK.
+
+## v0.3.0+2
+- Fix month buttons alignment. ([@amalsyahmi97](https://github.com/amalsyahmi))
