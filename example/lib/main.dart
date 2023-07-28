@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/intl.dart';
-import 'package:month_picker/month_picker.dart';
+import 'package:mx_month_picker/mx_month_picker.dart';
 
 void main() {
   runApp(const ExampleApp());

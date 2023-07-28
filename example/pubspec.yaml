@@ -1,5 +1,5 @@
-name: month_picker_example
-description: Shows example on how to use the month_picker package.
+name: mx_month_picker_example
+description: Shows example on how to use the mx_month_picker package.
 version: 0.0.1
 publish_to: 'none'
 
@@ -14,7 +14,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.0
-  month_picker:
+  mx_month_picker:
     path: ..
 
 dev_dependencies:

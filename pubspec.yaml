@@ -1,4 +1,4 @@
-name: month_picker
+name: mx_month_picker
 description: The month year picker inspired by the Flutter's date picker design.
 version: 0.3.0+2
 homepage: https://github.com/amalsyahmi/month-picker
